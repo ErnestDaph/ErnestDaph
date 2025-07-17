@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Daphnee
-- 👀 I’m interested in  digital marketing and new technologies in general.
+- 👀 I’m interested in  digital and new technologies in general.
 - 🌱 I’m currently learning Javascript and chess
 - 💞️ I’m looking to collaborate on all types of web development projects
 - 📫 How to reach me dm or linkedin @daphnee.ernest
